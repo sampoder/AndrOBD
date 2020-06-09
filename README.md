@@ -1,3 +1,6 @@
+FYI: I (sampoder) designed a website for this project: https://fr3ts0n.github.io/AndrOBD/
+
+
 ![AndrOBD](fastlane/metadata/android/en-US/images/tvBanner.png)
 
 ### Android OBD diagnostics with any ELM327 adapter
